@@ -1,0 +1,25 @@
+git clone (caminho ssh)  	--Não precisa colocar aspas
+
+cd (nome da pasta que clonou) 	--Não precisa colocar aspas/aperte o tab para auto completar
+
+git fetch -a 			--Puxa todas as branchs existentes no rep
+
+git checkout (nome da branch) 	--Para mudar de branch (staging/production)
+
+git pull 			--Trazer atualizações no rep
+
+git status 			--Sempre que necessário para visualizar a situação do rep
+
+git add . 			--Adiciona todas as mudanças realizadas no rep
+
+git commit -m 'nome da mudança/ticket'  	--Comita a alteração realizada
+
+git status 					--Para verificar a modificação commitada e se é possível executar o push
+
+git pull 			--Antes de realizar o push, faça o pull para buscar novas alterações
+
+git push 			--Enviar modificações para o repositório no github
+
+
+
+
