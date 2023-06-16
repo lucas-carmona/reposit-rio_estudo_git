@@ -5,3 +5,5 @@ https://about.gitlab.com/images/press/git-cheat-sheet.pdf -- comando GIT para co
 https://devconnected.com/how-to-switch-branch-on-git/ -- Detalhes de como mover de uma branch para outra
 
 https://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html -- comandos do GIT-FLOW (facilitador na hora de fazer trabalhos em branchs diferentes)
+
+git rebase - parecido com merge (estudar)
